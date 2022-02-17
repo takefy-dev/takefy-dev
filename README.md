@@ -1,7 +1,5 @@
 ### Hi, I'm TakeFy 👋
 
-[OneForAll](https://discord.gg/oneforall)
-
 
 ## 👨‍🎓 About me!
 
