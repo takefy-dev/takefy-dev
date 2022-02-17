@@ -5,9 +5,8 @@
 
 ## 👨‍🎓 About me!
 
-- 🤖 I'm currently working on [OneForAll](https://discord.gg/oneforall)!
 - 📚 I live and study in France
-- 🥅 2021 Goals: Grow my bot as far as I can, learn java
+- 🥅 2022 Goals: learn java, c#
 - 🖥 I'm using Webstorm
 
 
